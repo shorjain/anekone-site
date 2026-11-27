@@ -1,6 +1,6 @@
 # anekone.com
 
-The website of **Anekone**, an AI research company. *Many perspectives. One intelligence.*
+The website of **anēkone**, an AI research company. *Many perspectives. One intelligence.*
 
 Static site: plain HTML, CSS and vanilla JavaScript, no build step. Served by GitHub Pages at [anekone.com](https://anekone.com).
 
@@ -19,7 +19,7 @@ Static site: plain HTML, CSS and vanilla JavaScript, no build step. Served by Gi
 
 - Colors: ink `#0B0F1A`, panel `#111827`, hairline `#232a3a`, text `#F4F6FA`, muted `#A7AFBF`, accent `#3B5BFD` (used sparingly), light blue `#7D93FF` (focus rings)
 - Type: Space Grotesk 500/700 (headings, wordmark), Inter 400/500 (body), IBM Plex Mono (figure labels)
-- Wordmark: lowercase `anēkone`. Plain "Anekone" everywhere else.
+- Name: always `anēkone` (lowercase, macron on the first e), including at the start of a sentence. Plain `anekone` only in URLs, email addresses and code identifiers.
 
 ## Interaction rules
 
@@ -47,4 +47,4 @@ GitHub Pages from a **private** repository requires a paid GitHub plan.
 
 info.anekone@gmail.com
 
-© 2026 Anekone. All rights reserved.
+© 2026 anēkone. All rights reserved.

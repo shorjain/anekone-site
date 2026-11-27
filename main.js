@@ -1,4 +1,4 @@
-/* Anekone, anekone.com: quiet interactions only. */
+/* anēkone, anekone.com: quiet interactions only. */
 (function () {
   "use strict";
 
