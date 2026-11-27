@@ -45,6 +45,6 @@ GitHub Pages from a **private** repository requires a paid GitHub plan.
 
 ## Contact
 
-info.anekone@gmail.com
+info@anekone.com
 
 © 2026 anēkone. All rights reserved.
